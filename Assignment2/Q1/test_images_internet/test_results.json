@@ -1,0 +1,67 @@
+{
+    "total": 10,
+    "correct": 8,
+    "accuracy": 0.8,
+    "predictions": [
+        {
+            "filename": "download (1).jpeg",
+            "predicted": "Dog",
+            "confidence": 0.7311986684799194,
+            "correct": false
+        },
+        {
+            "filename": "download (2).jpeg",
+            "predicted": "Cat",
+            "confidence": 0.7317101955413818,
+            "correct": true
+        },
+        {
+            "filename": "download (3).jpeg",
+            "predicted": "Cat",
+            "confidence": 0.8702687621116638,
+            "correct": true
+        },
+        {
+            "filename": "download (4).jpeg",
+            "predicted": "Cat",
+            "confidence": 0.8690618872642517,
+            "correct": true
+        },
+        {
+            "filename": "download (5).jpeg",
+            "predicted": "Dog",
+            "confidence": 0.7320239543914795,
+            "correct": true
+        },
+        {
+            "filename": "download (6).jpeg",
+            "predicted": "Dog",
+            "confidence": 0.9912504553794861,
+            "correct": true
+        },
+        {
+            "filename": "download (7).jpeg",
+            "predicted": "Cat",
+            "confidence": 0.6605042219161987,
+            "correct": false
+        },
+        {
+            "filename": "download (8).jpeg",
+            "predicted": "Dog",
+            "confidence": 0.5214240550994873,
+            "correct": true
+        },
+        {
+            "filename": "download (9).jpeg",
+            "predicted": "Dog",
+            "confidence": 0.9892145395278931,
+            "correct": true
+        },
+        {
+            "filename": "download.jpeg",
+            "predicted": "Cat",
+            "confidence": 0.7155091762542725,
+            "correct": true
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "Demo_CNN": {
+        "test_accuracy": 0.6000000238418579,
+        "final_train_accuracy": 0.7950000166893005,
+        "final_val_accuracy": 0.6725000143051147
+    }
+}
